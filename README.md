@@ -40,4 +40,4 @@ Goodbye!
 
 ## Files
 - `course_info_Lookup_Program.py` – program using UDFs & exceptions
-- `Module 7 - Critical Thinking Assignment - Course Info Lookup Program.docx
+- `Module 7 - Critical Thinking Assignment - Course Info Lookup Program.docx`
