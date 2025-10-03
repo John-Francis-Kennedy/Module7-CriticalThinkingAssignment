@@ -1,0 +1,2 @@
+# Module7-CriticalThinkingAssignment
+Module7-CriticalThinkingAssignment-CourseInfoLookup
